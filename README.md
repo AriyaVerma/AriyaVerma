@@ -57,6 +57,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white"/>
   </a>
+  <a href="https://www.r-project.org/">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  </a>
 </p>
 
 
