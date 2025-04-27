@@ -1,11 +1,10 @@
 **Is life just an unsolved algorithm?** 
 
-- # 👋 Hi, I’m **Ariya Verma**
+# Hi, I’m **Ariya Verma**
 - ☕ A data enthusiast navigating the world of analytics with curiosity and Green tea!  
 - 👀 I’m interested in ... understanding human behavior through numbers.
 - 🌱 I’m currently learning ... advanced SQL, data visualization techniques, and the subtle art of storytelling with data.
 - 💞️ I’m looking to collaborate on ...  anything that sparks innovation. If it involves decyphering, impact and thrill, count me in!
-- 📫 How to reach me ... we'll figure it out
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... Life is like a SQL query — sometimes you get exactly what you’re looking for, sometimes you just forget the WHERE clause and ends up with everything you didn’t ask for!
 
